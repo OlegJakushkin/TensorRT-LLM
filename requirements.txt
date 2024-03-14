@@ -15,7 +15,7 @@ pandas
 h5py
 sentencepiece>=0.1.99
 tensorrt
-nvidia-ammo~=0.7.0; platform_machine=="x86_64"
+nvidia-ammo==0.7.1; platform_machine=="x86_64"
 wheel
 optimum
 evaluate
