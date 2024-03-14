@@ -14,7 +14,6 @@ pulp
 pandas
 h5py
 sentencepiece>=0.1.99
-tensorrt==9.3.0.post12.dev1
 wheel
 optimum
 evaluate
